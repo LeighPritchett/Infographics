@@ -1,4 +1,4 @@
-| Learning Objective / Topic | Source(s) |
+| Cyber Week 2 Learning Objective / Topic | Source(s) |
 |----------------------------|-----------|
 | **IP Address + Subnet Mask + Port (Socket Formation)** | Linux manual pages: `man 7 ip`, `man 7 tcp`; IANA Port Registry; Ubuntu Networking Docs |
 | **Local Name Resolution & /etc/hosts** | Linux manual pages: `man hosts`, `man resolv.conf`; Ubuntu Name Resolution Docs; RFC 1034 & 1035 |
@@ -10,7 +10,7 @@
 | **Capturing the TCP 3‑Way Handshake with tcpdump** | Linux manual page: `man tcpdump`; `man pcap-filter`; RFC 793 |
 | **IPv4 Binary Conversion, CIDR, Subnetting** | Linux manual page: `man ipcalc`; ipcalc documentation; RFC 950 (Subnetting) |
 
-| Career Topic / Learning Objective | Source(s) |
+| Career Week 2 Topic / Learning Objective | Source(s) |
 |----------------------------------|-----------|
 | **Identifying Career Paths from Past Roles** | U.S. Department of Labor O*NET Database; National Initiative for Cybersecurity Careers & Studies (NICCS) Role Descriptions; NIST NICE Framework |
 | **Mapping Transferable Skills to Cybersecurity Roles** | NIST NICE Workforce Framework; CompTIA Career Pathway Guides; CyberSeek Career Pathway Tool |
