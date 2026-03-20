@@ -23,6 +23,9 @@ Each week includes:
 
 This keeps each week self‑contained and makes the repo easy to browse.
 
+Navigation:
+   - Each week includes a master markdown file with my notes, sources, prompts, and reflections, along with the infographics generated from that week’s learning.
+
 ---
 
 ## 📅 Weekly Index
