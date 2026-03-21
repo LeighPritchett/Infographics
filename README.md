@@ -38,6 +38,12 @@ Navigation:
 - LinkedIn Post:
     - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-linuxbasics-activity-7439279384894803968-ZUY8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
+- **Infographic: Linux Terminal Essentials (General Technical Guide)**  
+  *(Beginner-friendly quick reference covering navigation, permissions, pipes, and text tools)*  
+  https://github.com/LeighPritchett/Infographics/blob/main/LinuxTerminalEssentials.png
+
+- **LinkedIn Post**  
+  
 
 ### **Week 2**
 - [Master Markdown Notes]
