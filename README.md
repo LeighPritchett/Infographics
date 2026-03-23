@@ -30,7 +30,7 @@ Navigation:
 
 ## 📅 Weekly Index
 
-### Week 1
+- **Week I Learned Week One**
 - [Markdown Notes]
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekOneTKH.md
 - [Infographic]
@@ -42,14 +42,16 @@ Navigation:
   *(Beginner-friendly quick reference covering navigation, permissions, pipes, and text tools)*  
   https://github.com/LeighPritchett/Infographics/blob/main/LinuxTerminalEssentials.png
 
-- **LinkedIn Post**  
+- LinkedIn Post 
+   - https://www.linkedin.com/posts/l-pritchett_linuxbasics-learninginpublic-share-7441059600189181952-ll69?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I 
   
 
 ### **Week 2**
 - [Master Markdown Notes]
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekTwoTKH.md
 - LinkedIn Post(s):
-  - [What I Learned – Week 2](link)
+  - What I Learned – Week 2 -  
+      - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-share-7440586800651239428-WCV8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
   - [Cyber Concepts Deep Dive](link)
   - [Career Navigation Deep Dive](link)
 
