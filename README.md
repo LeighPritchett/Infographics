@@ -52,8 +52,10 @@ Navigation:
 - LinkedIn Post(s):
   - What I Learned – Week 2 -  
       - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-share-7440586800651239428-WCV8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
-  - [Cyber Concepts Deep Dive](link)
-  - [Career Navigation Deep Dive](link)
+  - Networking Essential Deep Dive
+      - https://www.linkedin.com/posts/l-pritchett_cybersecurityjourney-networkessentials-learninginpublic-activity-7442540833079218176-acB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
+  - [Career Navigation Deep Dive]
+      -(link)
 
 (Links will be updated as new weeks are added.)
 
