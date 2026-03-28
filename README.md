@@ -55,7 +55,18 @@ Navigation:
   - Networking Essential Deep Dive
       - https://www.linkedin.com/posts/l-pritchett_cybersecurityjourney-networkessentials-learninginpublic-activity-7442540833079218176-acB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
   - [Career Navigation Deep Dive]
-      -(link)
+      -https://www.linkedin.com/posts/l-pritchett_cybersecurityjourney-careersearchmastery-activity-7443265661168087040-rweK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
+
+### **Week 3**
+
+- **Week I Learned — Week Three**
+  [Master Markdown Notes]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekThreeTKH.md  
+  [Infographic]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekThreeTKH.png  
+- LinkedIn Post:  
+    - TBA
+---
 
 (Links will be updated as new weeks are added.)
 
