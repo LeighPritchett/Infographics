@@ -62,10 +62,20 @@ Navigation:
 - **Week I Learned — Week Three**
   [Master Markdown Notes]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekThreeTKH.md  
-  [Infographic]  
+  [Infographic(s)]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekThreeTKH.png  
-- LinkedIn Post:  
-    - TBA
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekThreeTKHPython3SecurityTool.png
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekThreeTKHGeneralPython3.png
+    
+- LinkedIn Post(s):  
+    - *What I Learned TKH Week Three*
+    **TBA**
+    - *Python 3: A Beginner‑Friendly Overview*  
+    **TBA**  
+    - *Python as a Security Tool: From Logic to Automation*  
+    **TBA**
+
+
 ---
 
 (Links will be updated as new weeks are added.)
