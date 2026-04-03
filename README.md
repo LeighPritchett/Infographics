@@ -71,7 +71,7 @@ Navigation:
     - *What I Learned TKH Week Three*
     - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-activity-7444352880192454658-mLMD?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I&utm_campaign=copy_link
     - *Python 3: A Beginner‑Friendly Overview*  
-    **TBA**  
+    - https://www.linkedin.com/posts/l-pritchett_cybersecurityjourney-python3-learninginpublic-activity-7445802295650377728-v5dW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I 
     - *Python as a Security Tool: From Logic to Automation*  
     - https://www.linkedin.com/posts/l-pritchett_cybersecurityjourney-pythonsecurity-learninginpublic-activity-7445077612768411648-pI6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
