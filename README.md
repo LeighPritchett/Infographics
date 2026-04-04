@@ -75,8 +75,17 @@ Navigation:
     - *Python as a Security Tool: From Logic to Automation*  
     - https://www.linkedin.com/posts/l-pritchett_cybersecurityjourney-pythonsecurity-learninginpublic-activity-7445077612768411648-pI6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
-
 ---
+
+### **Week 4**
+
+- **This Week I Learned — Week Four**
+  [Master Markdown Notes]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.md  
+  [Infographic]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.png  
+- LinkedIn Post:  
+    - 
 
 (Links will be updated as new weeks are added.)
 
