@@ -82,10 +82,16 @@ Navigation:
 - **This Week I Learned — Week Four**
   [Master Markdown Notes]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.md  
-  [Infographic]  
-    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.png  
+
+  [Infographic(s)]  
+  **Week 4 Learning**
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.png
 - LinkedIn Post:  
-    - 
+    - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-activity-7446889520802951168-7ndp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
+  **Docker Basics**
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKHDocker.png
+- LinkedIn Post:
+    - https://www.linkedin.com/posts/l-pritchett_modern-infrastructure-has-gone-through-a-activity-7447614256042323968-BCnm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
 (Links will be updated as new weeks are added.)
 
