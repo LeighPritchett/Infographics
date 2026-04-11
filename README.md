@@ -96,6 +96,16 @@ Navigation:
 - LinkedIn Post:
     - https://www.linkedin.com/posts/l-pritchett_modern-infrastructure-has-gone-through-a-activity-7447614256042323968-BCnm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
+### **Week 5 — Active Directory Foundations**
+
+- **This Week I Learned — Week Five**  
+  [Master Markdown Notes]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFiveTKH.md  
+  [Infographic]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekFiveTKH.png  
+- LinkedIn Post:  
+    - 
+
 (Links will be updated as new weeks are added.)
 
 ---
