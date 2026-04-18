@@ -106,6 +106,18 @@ Navigation:
 - LinkedIn Post:  
     - https://www.linkedin.com/posts/l-pritchett_thisweekilearned-activedirectory-cybersecurity-activity-7449426293026230272-fMbw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
+
+### **Week 6 – Systems Mastery, Diagnostics & Capstone Integration**
+
+- **This Week I Learned – Week Six**  
+  [Master Markdown Notes]  
+    - 
+  [Infographic]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekSixTKH.png
+- LinkedIn Post:  
+    - (link coming soon)
+
+
 (Links will be updated as new weeks are added.)
 
 ---
