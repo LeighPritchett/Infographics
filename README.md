@@ -111,7 +111,7 @@ Navigation:
 
 - **This Week I Learned – Week Six**  
   [Master Markdown Notes]  
-    - 
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekSixTKH.md
   [Infographic]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekSixTKH.png
 - LinkedIn Post:  
