@@ -115,7 +115,7 @@ Navigation:
   [Infographic]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekSixTKH.png
 - LinkedIn Post:  
-    - (link coming soon)
+    - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-activity-7451962892675026944-kCC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
 
 (Links will be updated as new weeks are added.)
