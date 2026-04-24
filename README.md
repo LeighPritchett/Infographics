@@ -118,6 +118,16 @@ Navigation:
     - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-activity-7451962892675026944-kCC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
 
+### **Week 7 – Reconnaissance, Scanning & Vulnerability Analysis**
+
+- **This Week I Learned – Week Seven**
+  [Master Markdown Notes]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekSevenTKH.md
+  [Infographic]  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekSevenTKH.png
+- LinkedIn Post:  
+    - 
+
 (Links will be updated as new weeks are added.)
 
 ---
