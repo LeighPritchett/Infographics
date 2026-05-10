@@ -85,7 +85,6 @@ Navigation:
 - **This Week I Learned — Week Four**
   [Master Markdown Notes]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.md  
-
   [Infographic(s)]  
   **Week 4 Learning**
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekFourTKH.png
@@ -126,7 +125,29 @@ Navigation:
   [Infographic]  
     - https://github.com/LeighPritchett/Infographics/blob/main/WeekSevenTKH.png
 - LinkedIn Post:  
-    - 
+    - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-googledorking-activity-7454499642718760960-FC5G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
+
+### **Week 8 – Web Vulnerabilities: SQLi, XSS/CSRF & API Security**
+
+- **This Week I Learned – Week Eight**  
+  [Master Markdown Notes]  
+  - https://github.com/LeighPritchett/Infographics/blob/main/WeekEightTKH.md
+  [Infographic]  
+  - (https://github.com/LeighPritchett/Infographics/blob/main/WeekEightTKH.png)
+  [LinkedIn Post]  
+  - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-pivoting-activity-7457036400572604417-AAU3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
+
+
+
+### **Week 9 – Advanced Exploitation: SQLi Mechanics, Client-Side Attacks & BOLA**
+
+- **This Week I Learned – Week Nine**  
+  [Master Markdown Notes]  
+  - https://github.com/LeighPritchett/Infographics/blob/main/WeekNineTKH.md
+  [Infographic]  
+  - (https://github.com/LeighPritchett/Infographics/blob/main/WeekNineTKH.png)
+  [LinkedIn Post]  
+  - (link coming soon)
 
 (Links will be updated as new weeks are added.)
 
