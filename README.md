@@ -145,9 +145,9 @@ Navigation:
   [Master Markdown Notes]  
   - https://github.com/LeighPritchett/Infographics/blob/main/WeekNineTKH.md
   [Infographic]  
-  - (https://github.com/LeighPritchett/Infographics/blob/main/WeekNineTKH.png)
+  - https://github.com/LeighPritchett/Infographics/blob/main/WeekNineTKH.png
   [LinkedIn Post]  
-  - (link coming soon)
+  - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-activity-7459573081653751809-NXi1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
 (Links will be updated as new weeks are added.)
 
