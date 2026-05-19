@@ -149,6 +149,19 @@ Navigation:
   [LinkedIn Post]  
   - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-cyberlearning-activity-7459573081653751809-NXi1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
 
+### **Week 10 – Digital Forensics: Disk Imaging, Inodes & Evidence Recovery**
+
+- **This Week I Learned – Week Ten**
+
+  - **[Master Markdown Notes]**  
+    https://github.com/LeighPritchett/Infographics/blob/main/WeekTenTKH.md
+
+  - **[Infographic]**  
+    - https://github.com/LeighPritchett/Infographics/blob/main/WeekTenTKH.png
+
+  - **[LinkedIn Post]**  
+    - https://www.linkedin.com/posts/l-pritchett_theknowledgehouse-cybersecurityjourney-goo[…]m=member_desktop&rcm=ACoAAD49YCMBmvtcKNPNNpS0lUDU4PYKAVSJF3I
+
 (Links will be updated as new weeks are added.)
 
 ---
